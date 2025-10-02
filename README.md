@@ -15,13 +15,11 @@ This repository contains scripts used for genome annotation of *Chelidonium maju
 
 **Glycine Rich Proteins (GRPs)**: A diverse group of structural and regulatory proteins characterized by repetitive glycine-rich motifs. Among others, GRPs participate in signal transduction, and defense responses. Their flexibility and ability to interact with various cellular components make them key players in plant development and stress adaptation.
 
-### Research Scope
+### Included analyses
 
 This project employs computational genomics approaches to:
-- Identify and annotate MLP and GRP gene family members in the *C. majus* genome
+- Sort contigs anc calculate basic assembly statistics
+- XXX
+- Identify MLP and GRP gene family members in proteome resulting from conceptual translation of 
 - Analyze gene structures, conserved domains, and motif compositions
-- Investigate phylogenetic relationships and evolutionary patterns
-- Examine expression profiles and functional diversification
-- Predict subcellular localization and potential functional roles
-
-Similar genomic studies have been conducted for other plant species, providing insights into the evolution and functional diversification of these important defense protein families across the plant kingdom.
+- Parse annotation results and create tables and figures
