@@ -20,6 +20,6 @@ This repository contains scripts used for genome annotation of *Chelidonium maju
 This project employs computational genomics approaches to:
 - Sort contigs anc calculate basic assembly statistics
 - XXX
-- Identify MLP and GRP gene family members in proteome resulting from conceptual translation of 
+- Identify MLP and GRP gene family members in proteome resulting from conceptual translation of the C. majus proteome and orthologous groups
 - Analyze gene structures, conserved domains, and motif compositions
 - Parse annotation results and create tables and figures
